@@ -1,0 +1,124 @@
+{
+  "stack_list": [
+    {
+      "content": [
+        [
+          "html",
+          {
+            "style": "",
+            "class": ""
+          },
+          0
+        ],
+        [
+          "body",
+          {
+            "class": [
+              "page-home"
+            ],
+            "style": ""
+          },
+          0
+        ],
+        [
+          "main",
+          {
+            "style": "",
+            "class": ""
+          },
+          0
+        ],
+        [
+          "div",
+          {
+            "class": [
+              "block-container",
+              "block-club-de-lectura"
+            ],
+            "style": ""
+          },
+          0
+        ],
+        [
+          "div",
+          {
+            "class": [
+              "flex-container",
+              "align-center",
+              "justify-end"
+            ],
+            "style": ""
+          },
+          0
+        ],
+        [
+          "div",
+          {
+            "class": [
+              "swiper-container"
+            ],
+            "style": ""
+          },
+          0
+        ],
+        [
+          "div",
+          {
+            "class": [
+              "swiper-wrapper"
+            ],
+            "style": ""
+          },
+          0
+        ],
+        [
+          "div",
+          {
+            "class": [
+              "swiper-slide"
+            ],
+            "style": ""
+          },
+          0
+        ],
+        [
+          "div",
+          {
+            "class": [
+              "entry-box",
+              "fix",
+              "especiales",
+              "FIX",
+              "FIX"
+            ],
+            "style": ""
+          },
+          0
+        ],
+        [
+          "article",
+          {
+            "style": "",
+            "class": ""
+          },
+          0
+        ],
+        [
+          "a",
+          {
+            "class": [
+              "cover-link"
+            ],
+            "style": ""
+          }
+        ]
+      ],
+      "wanted_attr": "href",
+      "is_full_url": null,
+      "url": "",
+      "hash": "d4dde6e639a2b75d47e069b241083236df51eecea2eb5ad3a15fc8ec30ab6f92",
+      "stack_id": "rule_8taj",
+      "alias": "regla"
+    }
+  ]
+}
